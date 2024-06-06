@@ -10,7 +10,7 @@ const Status = () =>{
             <tr>
               <td>Name</td>
               <td>Status</td>
-              <td>Date</td>
+      
             </tr>
           </thead>
           <tbody>
